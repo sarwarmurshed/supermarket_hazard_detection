@@ -5,6 +5,6 @@
 ### Fine-tune models
 ---
 1. It is recommended to use CUDA-compatible GPUs to train the model.
-2. Download Grocery hazard dataset and put in into data folder. 
+2. Download Grocery hazard dataset and put it into data folder. 
 3. Follow notebook steps [fine_tune_with_test.ipynb](https://github.com/sarwarmurshed/supermarket_hazard_detection/blob/master/fine-tune_existing_models/fine-tune_googlenet/fine_tune_with_test.ipynb)
 

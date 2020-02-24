@@ -2,11 +2,9 @@
 ---
  Fine-tune existing model using the MXNet framework. We have shared code to fine-tune six models in six different directories. The structures of all the directories are same. The following sections describes the necessary steps to fine-tune the GoogleNet model. Anyone can fine-tune other models by following the instructs of fine-tuning GoogleNet.
 
-### Prepare data
+### Fine-tune models
 ---
 1. It is recommended to use CUDA-compatible GPUs to train the model.
-2. Download Grocery hazard dataset and put in into data folder in [fine_tune_with_test.ipynb](https:)
-3. Download a pre-train model on ImageNet from [ONNX Model Zoo](https://github.com/onnx/models) and put it into model/<DL_Model_name> folder. It is also possible to download a pre-train DL model using fine_tune_with_test.ipynb notebook.
+2. Download Grocery hazard dataset and put in into data folder. 
+3. Follow notebook steps [fine_tune_with_test.ipynb](https://github.com/sarwarmurshed/supermarket_hazard_detection/blob/master/fine-tune_existing_models/fine-tune_googlenet/fine_tune_with_test.ipynb)
 
-### Fine-tune
-1. Follow [fine_tune_with_test.ipynb](https:) step by step. You can change the variables and parameters if necessary.

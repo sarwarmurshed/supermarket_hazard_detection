@@ -1,5 +1,6 @@
 ### Description
  This repository contains the necessary code and instructions to build and fine-tune deep learning(DL) model for grocery hazard detection.
+ We used [MXNet](https://mxnet.apache.org/) framework to build, train and deploy all the deep learning models. 
 
 1. [Fine-tune existing DL models](https://github.com/sarwarmurshed/supermarket_hazard_detection/tree/master/fine-tune_existing_models)
 2. [Build a new model and fine-tune it](https://github.com/sarwarmurshed/supermarket_hazard_detection/tree/master/edgeLite)

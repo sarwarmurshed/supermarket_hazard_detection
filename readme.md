@@ -5,7 +5,10 @@
 1. [Fine-tune existing DL models](https://github.com/sarwarmurshed/supermarket_hazard_detection/tree/master/fine-tune_existing_models)
 2. [Build a new model and fine-tune it](https://github.com/sarwarmurshed/supermarket_hazard_detection/tree/master/edgeLite)
 
-### Test 
+### Prerequisite
+1. Install [MXNet](https://mxnet.apache.org/get_started/?platform=devices&iot=raspberry-pi&) 
+
+### Test Results
 Here are some test results. The Azure color box at the bottom of the picture represents the model's confidence for a particular image. 
 
 ![alt text](https://github.com/sarwarmurshed/supermarket_hazard_detection/blob/master/output_result/output_result1.png "Logo Title Text 1")

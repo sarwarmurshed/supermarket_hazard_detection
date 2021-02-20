@@ -26,8 +26,7 @@ To run DL models using this framework first, the following preconditions need to
 
  4. Catkin Workspace
 
-    - Create a Catkin workspace (~/catkin_ws) using the steps mentioned in the following tutorial:
-    - http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment#Create_a_ROS_Workspace
+    - Create a Catkin workspace (~/catkin_ws) using the steps mentioned in this [tutorial](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment#Create_a_ROS_Workspace)
 
  5. Navigate into the catkin workspace and clone and build ros_deep_learning:
 

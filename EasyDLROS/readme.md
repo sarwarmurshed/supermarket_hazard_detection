@@ -1,10 +1,10 @@
-#EasyDLROS, a new framework for easy deployment of pre-trained DL models on robots.
+## EasyDLROS, a new framework for easy deployment of pre-trained DL models on robots.
 All the experiments are conducted on a Nvidia TX2 device, which is ideal for industrial robots and medical equipment. A Logitech C925e webcam have been attached to the TX2 devics capture images.
 
 To run DL models using this framework first, the following preconditions need to be fulfilled.
 
-##Preconditions
- 1. Install Jetpack >4.2.2 from https://developer.nvidia.com/embedded/jetpack
+## Preconditions
+ 1. [Install Jetpack >4.2.2](https://developer.nvidia.com/embedded/jetpack)
 
  2. Install jetson-inference project: 
  
@@ -40,7 +40,7 @@ To run DL models using this framework first, the following preconditions need to
 7. Update image path in live_image_recognition.py file if necessary.
 
 
-##How to run DL inference on a live video stream
+## How to run DL inference on a live video stream
 In this section, image classification will be done when one image is captured by the robot camera. This is a live event. Based on the classification results the robot takes a future decision. The decision could be to stop, turn, or continue the robot.
 
 

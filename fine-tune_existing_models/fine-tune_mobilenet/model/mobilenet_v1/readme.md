@@ -1,1 +1,1 @@
-Pretrained model should be here.
+Pretrained model should be stored here.

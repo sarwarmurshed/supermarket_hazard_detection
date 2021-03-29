@@ -1,6 +1,6 @@
 ### Description
 ---
- Fine-tune existing model using the MXNet framework. We have shared code to fine-tune six models in six different directories. The structures of all the directories are same. You just need to run the jupyter notebook to train a model. 
+ Fine-tune existing model using the MXNet framework. We have shared code to fine-tune six models in six different directories. The structures of all the directories are same. You just need to run the jupyter notebook to train a model. After training, a trained model will be saved in the model directory. This trained model will be used in the EasyDLROS framework.
 
 ### Fine-tune models
 ---

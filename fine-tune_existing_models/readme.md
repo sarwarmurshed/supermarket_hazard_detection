@@ -1,6 +1,6 @@
 ### Description
 ---
- Fine-tune existing model using the MXNet framework. We have shared code to fine-tune six models in six different directories. The structures of all the directories are same. The following sections describes the necessary steps to fine-tune the GoogleNet model. Anyone can fine-tune other models by following the instructs of fine-tuning GoogleNet.
+ Fine-tune existing model using the MXNet framework. We have shared code to fine-tune six models in six different directories. The structures of all the directories are same. You just need to run the jupyter notebook to train a model. 
 
 ### Fine-tune models
 ---

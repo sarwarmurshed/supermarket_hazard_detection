@@ -1,5 +1,5 @@
 ### Description
- This repository contains necessary code and instructions to build, train and fine-tune EdgeLite model on grocery hazard detection.
+ This repository contains necessary code and instructions to build, train and fine-tune EdgeLite model on grocery hazard detection. First we train the EdgeLite model using ImageNet dataset, then fine-tune the model using grocery hazard dataset.
 
 ### Prepare IMAGENET Data to train the model
 1. You are advised to use CUDA-compatible GPUs to prepare data and train the model.

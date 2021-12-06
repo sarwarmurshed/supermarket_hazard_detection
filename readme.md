@@ -1,3 +1,8 @@
+### Published paper: 
+[Resource-aware On-device Deep Learning for Supermarket Hazard Detection](https://ieeexplore.ieee.org/document/9356355)
+[Arxiv](https://arxiv.org/pdf/2003.04116.pdf)
+
+
 ### Description
  This repository contains the necessary code and instructions to build and fine-tune deep learning(DL) model for grocery hazard detection.
  We used [MXNet](https://mxnet.apache.org/) framework to build, train and deploy all the deep learning models. 

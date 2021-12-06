@@ -1,5 +1,5 @@
 ### Published paper: 
-[Resource-aware On-device Deep Learning for Supermarket Hazard Detection](https://ieeexplore.ieee.org/document/9356355)
+[Resource-aware On-device Deep Learning for Supermarket Hazard Detection](https://ieeexplore.ieee.org/document/9356355)\\
 [Arxiv](https://arxiv.org/pdf/2003.04116.pdf)
 
 
